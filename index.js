@@ -1,0 +1,1 @@
+this.PublicScript = 'Hello PublicScript';
